@@ -8,7 +8,8 @@ import Props from './components/Props/Props';
 function App() {
   const personName = {
     first: 'Sadik',
-    last: 'Ahmed'
+    last: 'Ahmed',
+    age: 21
   }
   return (
     <div>
