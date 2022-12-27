@@ -6,10 +6,13 @@ type PersonProps = {
     }
 }
 
+
+
 const Person = (props: PersonProps) => {
     return (
         <div className="container">
             <p>FirstName {props.name.first} LastName {props.name.last} Age: {props.name.age}</p>
+            <p>{}</p>
         </div>
     );
 };
