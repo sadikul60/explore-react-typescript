@@ -33,7 +33,7 @@
     font-size: 27px;
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .blog img{
@@ -43,6 +43,9 @@
 .blog p{
     font-size: 19px;
     text-align: justify;
+}
+
+.question{
     margin-top: 30px;
 }
 
