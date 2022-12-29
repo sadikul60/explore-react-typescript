@@ -19,6 +19,8 @@
 }
 
 .blog{
+    height: 500px;
+    overflow-y: scroll;
     background: cadetblue;
     color: black;
     padding: 30px;
