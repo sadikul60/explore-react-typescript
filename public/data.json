@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "question": "What is HTML?",
+        "answere": "HTML is a hypertext markup language. Primarily used to develop web pages or applications."
+    },
+    {
+        "id": 2,
+        "question": "What is the difference between HTML tags and attributes?",
+        "answere": "Tag and attribute are two concepts related to HTML. The main difference between tag and attribute is - tag is a way of representing an HTML element in the program, Attribute- An attribute is a way to describe the characteristics of an HTML element."
+    },
+    {
+        "id": 3,
+        "question": "Difference between html and html5?",
+        "answere": "Both HTML and HTML5 are hypertext markup languages, primarily used to develop web pages or applications. HTML5- is the latest version of HTML. HTML5 also supports audio and video, JavaScript can be run in the background. HTML- No audio and video support."
+    },
+    {
+        "id": 4,
+        "question": "What are Marquee tags?",
+        "answere": "Marquee is a function, to add scrollable text/img on your web page. <marquee> ... </marquee>."
+    },
+    {
+        "id": 5,
+        "question": "Do all HTML tags need a closure?",
+        "answere": "No, Not all tags, for example/such as- <img>, <br> <hr> etc."
+    },
+    {
+        "id": 6,
+        "question": "What is The <span> tag?",
+        "answere": "<span> tag is an inline element tag."
+    },
+    {
+        "id": 7,
+        "question": "Difference between inline and block level elements?",
+        "answere": "Inline level element- take as much width as required. For example- <a>, <img> <span> tags. Block level- Consume the full width available and start from a new line. For example- <h1>, <p>"
+    },
+    {
+        "id": 8,
+        "question": "What are the different kinds of Doctypes available?",
+        "answere": "1. Strict Doctype, 2. Transitional Doctype, 3. Frameset Doctype."
+    },
+    {
+        "id": 9,
+        "question": "Difference between ordered list and unordered list.?",
+        "answere": "Unordered list-An unordered list starts with the <ul> tag. Each list item starts with the <li> tag. And The list items will be marked with bullets (small black circles) by default. Ordered list- An ordered list starts with the </ol> tag. Each list item starts with the <li> tag. The list items will be marked with numbers by default."
+    },
+    {
+        "id": 10,
+        "question": "What is the “class” attribute in HTML?",
+        "answere": "The class attribute is used to specify the class name for an HTML element. Multiple elements in HTML can have the same class value. Also, it is mainly used to associate the styles written in the stylesheet with the HTML elements."
+    },
+    {
+        "id": 11,
+        "question": "What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?",
+        "answere": "Multiple elements in HTML can have the same class value, whereas a value of id attribute of one element cannot be associated with another HTML element."
+    },
+    {
+        "id": 12,
+        "question": "What is the difference between <strong>, <b> tags and <i> tags?",
+        "answere": "The effect on a normal webpage of the tags <strong>, <b> and <i> is the same. <b> and <i> tags stand for bold and italic. These two tags only apply font styling and bold tag <b>, just adds more ink to the text, these tags don't say anything about the text."
+    },
+    {
+        "id": 13,
+        "question": "What are the various formatting tags in HTML?",
+        "answere": "Some formatting tag- <b>- makes text bold, <i>- makes text italic, <em>- makes text italic but with added semantics importance. <big>- increases the font size of the text by one unit, <small>- decreases the font size of the text by one unit, <sub>- makes the text a subscript, <sup>- makes the text a superscript, <del>- display as strike out text, <strong>- marks the text as important, <mark>- highlights the text, <ins>- display as added text."
+    },
+    {
+        "id": 14,
+        "question": "How do you create a hyperlink in HTML?",
+        "answere": "We use the anchor tag <a> to create a hyperlink in HTML that links one page to another page. The hyperlink can be added to images too."
+    },
+    {
+        "id": 15,
+        "question": "What property is used for changing the font face?",
+        "answere": "The font-family property is used for changing the font face that is applied to the element in the DOM."
+    }
+]

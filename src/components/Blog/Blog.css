@@ -12,14 +12,14 @@
 
 .container h1{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 30px;
     font-size: 40px;
     font-weight: 700;
 }
 
 .blog{
-    height: 500px;
+    height: 100vh;
     overflow-y: scroll;
     background: cadetblue;
     color: black;
@@ -27,6 +27,7 @@
     transition: 2.5s;
     margin-top: 20px;
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .blog h3{
@@ -36,10 +37,6 @@
     margin-bottom: 40px;
 }
 
-.blog img{
-    width: 15%;
-}
-
 .blog p{
     font-size: 19px;
     text-align: justify;
@@ -47,6 +44,8 @@
 
 .question{
     margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* .blog:hover{
