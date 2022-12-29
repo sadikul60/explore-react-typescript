@@ -1,0 +1,20 @@
+.navbar{
+    background: cornflowerblue;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar li{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 24px;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+}
